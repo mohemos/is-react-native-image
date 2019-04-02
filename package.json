@@ -1,0 +1,24 @@
+{
+  "name": "is-react-native-image",
+  "version": "1.0.0",
+  "description": "is-react-native-image is an image renderer for react.js and react-native, replaces unavailable image with placeholder. Inspired by react-user-avatar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohemos/is-react-native-image.git"
+  },
+  "keywords": [
+    "react-native-avatar",
+    "avatar",
+    "react-native-image-placeholder"
+  ],
+  "author": "Moses Peter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohemos/is-react-native-image/issues"
+  },
+  "homepage": "https://github.com/mohemos/is-react-native-image#readme"
+}
